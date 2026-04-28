@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Build output
+bin/
+obj/
+
+# User/IDE files
+.vs/
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Environment secrets
+.env
+.env.*
+!.env.example
