@@ -3,12 +3,13 @@ A full-stack web application designed to manage restaurant operations including 
 
 # 🍽️ Restaurant Management System
 
-![.NET](https://img.shields.io/badge/.NET-8.0-blue)
-![React](https://img.shields.io/badge/React-Frontend-61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791)
-![JWT](https://img.shields.io/badge/Auth-JWT-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-![Status](https://img.shields.io/badge/Status-Active-success)
+![.NET](https://img.shields.io/badge/.NET-10.0-512BD4?logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/Auth-JWT-000000?logo=jsonwebtokens&logoColor=white)
+![2FA](https://img.shields.io/badge/Security-2FA-FF6F00)
+![Swagger](https://img.shields.io/badge/API-Swagger-85EA2D?logo=swagger&logoColor=black)
+![Status](https://img.shields.io/badge/Status-Active-2ECC71)
+![License](https://img.shields.io/badge/License-MIT-F1C40F)
 
 A **production-ready full-stack Restaurant Management System** built using ASP.NET Core Web API and React.js.  
 This application is designed with scalability, clean architecture, and security best practices in mind.
