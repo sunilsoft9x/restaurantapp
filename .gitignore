@@ -17,3 +17,7 @@ obj/
 .env
 .env.*
 !.env.example
+
+futureversion.md
+plan-restaurantAppProductionUpgrade.prompt.md
+
